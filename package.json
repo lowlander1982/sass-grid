@@ -1,0 +1,7 @@
+{
+  "name": "sass-grid",
+  "version": "1.0.0",
+  "description": "A simple grid system built in scss",
+  "author": "@fonnegra",
+  "license": "MIT"
+}
